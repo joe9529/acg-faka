@@ -1139,7 +1139,7 @@ layui.define(['layer', 'jquery', 'form', 'table', 'upload', 'laydate', 'authtree
                         success(unqueId);
                     }
                     //添加动漫人物
-                    $('.layui-layer-page').append('<img src="/assets/admin/images/menu/left.png" style="position: absolute;height: 200px;top: 0px;left: -142px;"><img src="/assets/admin/images/menu/right.png" style="position: absolute;height: 200px;top: 0px;right: -142px;">');
+                    // $('.layui-layer-page').append('<img src="/assets/admin/images/menu/left.png" style="position: absolute;height: 200px;top: 0px;left: -142px;"><img src="/assets/admin/images/menu/right.png" style="position: absolute;height: 200px;top: 0px;right: -142px;">');
 
                     //处理PC
                     typeof area == "string" && hex.popupAutoWindow();
