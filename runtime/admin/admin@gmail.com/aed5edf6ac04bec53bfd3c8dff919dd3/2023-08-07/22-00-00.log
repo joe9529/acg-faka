@@ -1,0 +1,612 @@
+[2023-08-07 22:17:08]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:17:09]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:17:10]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:17:10]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"6","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:17:10]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:17:10]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:26]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Upgrade-Insecure-Requests":"1","Dnt":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:26]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:26]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:26]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"6","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:18:27]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:27]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:39]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/setServer
+POST数据：{"server":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"8","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:18:39]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:39]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:40]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"6","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:18:40]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:40]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:41]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:18:47]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/user/group?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:18:47]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:18:54]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/card/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=135","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:18:54]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/dict/get
+POST数据：{"dict":"commodity->owner=0 and delivery_way=0 and (shared_id is null or shared_id=0),id,name","keywords":""}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=135","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/card/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"111","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:18:54]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/card/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=135","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/card/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:18:57]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/card/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:19:04]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/sms?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:19:10]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/email?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/sms","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:19:19]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/other?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/email","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:19:19]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/config/getBusiness
+POST数据：{"offset":"0","limit":"5","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/other","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"23","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:20:27]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/user/group?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=103.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/other","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:20:27]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=103.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:24:13]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/user/group
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Upgrade-Insecure-Requests":"1","Dnt":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:16]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:24:16]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:18]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:20]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/user/group
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Upgrade-Insecure-Requests":"1","Dnt":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:22]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:23]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:24:23]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:35]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/user/group
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Upgrade-Insecure-Requests":"1","Dnt":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:37]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:24:37]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:38]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:47]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/user/group
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/dashboard/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Upgrade-Insecure-Requests":"1","Dnt":"1","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:52]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:57]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:24:57]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Cache-Control":"no-cache","Pragma":"no-cache","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:25:06]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/plugin/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/user/group","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:25:07]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/plugin/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Cache-Control":"no-cache","Pragma":"no-cache","Content-Length":"8","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:25:15]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:25:15]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"afaka.com","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:25:15]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/captcha?type=captcha_reg
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"afaka.com","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:25:16]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:25:31]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/register
+POST数据：{"username":"admin9562","password":"admin9562","captcha":"g8ym","cookie":{"GOLANG_ID":"JuQsfMy5hSOcojmkCK9Tz7CbuoQwwAOLAkl5zVQM","expires":"Mon, 07-Aug-2023 19:25:16 GMT","path":"/","domain":"standby.acgshe.com","httponly":""}}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"250","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:25:41]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/register
+POST数据：{"username":"admin9562","password":"admin9562","captcha":"gbym","cookie":{"GOLANG_ID":"JuQsfMy5hSOcojmkCK9Tz7CbuoQwwAOLAkl5zVQM","expires":"Mon, 07-Aug-2023 19:25:16 GMT","path":"/","domain":"standby.acgshe.com","httponly":""}}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"250","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:25:41]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/store/home
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:25:42]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"afaka.com","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:25:43]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:25:43]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:25:44]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:25:46]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1","type":"1","group":"0"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"39","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:09]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/install
+POST数据：{"plugin_key":"Jshi","type":"1","plugin_id":"23"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"35","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:11]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:12]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:12]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:13]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:25]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:26:25]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"afaka.com","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:25]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:27]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1","type":"1","group":"0"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"39","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:31]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/plugins
+POST数据：{"offset":"18","limit":"18","page":"2","type":"1","group":"0"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"40","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:38]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/install
+POST数据：{"plugin_key":"Epusdt","type":"1","plugin_id":"217"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"38","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:26:39]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:40]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:41]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:26:41]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:27:03]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/app/uninstall
+POST数据：{"plugin_key":"Jshi","type":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"22","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:27:03]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:27:08]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:27:08]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/index","Origin":"http://afaka.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"afaka.com","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:27:08]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:27:53]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/pay/plugin?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:27:53]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:28:06]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:28:06]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/index","Origin":"http://afaka.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"afaka.com","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:06]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:28:10]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/store/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:28:10]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/store/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:28:13]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/store/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
+[2023-08-07 22:28:29]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/plugin/setThemeConfig
+POST数据：{"style":"1","cache":"0","cache_expire":"60","icp":"","id":"Cartoon"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"47","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:28:29]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=441.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:30]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=371","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:32]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=371","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:34]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Upgrade-Insecure-Requests":"1","Dnt":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:34]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:35]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:42]:
+IP地址：112.205.186.154
+请求地址：【POST】 -> http://afaka.com/admin/api/plugin/setThemeConfig
+POST数据：{"style":"1","cache":"1","cache_expire":"60","icp":"","id":"Cartoon"}
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Origin":"http://afaka.com","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Content-Length":"47","Connection":"keep-alive","Host":"afaka.com"}
+----------------------------------------
+[2023-08-07 22:28:42]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Dnt":"1","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:43]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:28:43]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:29:28]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/api/app/versions
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"*/*","Connection":"keep-alive","Host":"afaka.com","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2023-08-07 22:29:43]:
+IP地址：112.205.186.154
+请求地址：【GET】 -> http://afaka.com/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"PPA_CI=ed20e690839859af82ae9f8145ebbdab; ACG-SHOP=1m0lpac9cdponbha9qmoggp3on; kt_aside_menu_wrapperst=368.5","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8","Accept-Encoding":"gzip, deflate","Referer":"http://afaka.com/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Dnt":"1","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"afaka.com","Content-Length":""}
+----------------------------------------
