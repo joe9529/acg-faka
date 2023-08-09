@@ -12,11 +12,11 @@
     <!--end::Global Stylesheets Bundle-->
     <style>
         .text-color {
-        #{if $setting.style==0}
+            #{if $setting.style==0}
             color: pink;
-        #{else}
+            #{else}
             color: #70b5ff;
-        #{/if}
+            #{/if}
         }
     </style>
     <!--start::HOOK-->
@@ -44,67 +44,80 @@
                         <!--begin::Title-->
                         <a href="/"><h1 class="mb-3 text-color">#{$config.shop_name}</h1></a>
                         <!--end::Title-->
-                        <div class="text-gray-400 fw-bold fs-5">想起密码? <a href="/user/authentication/login"
-                                                                         class="link-primary fw-bolder">立即登录!</a></div>
+                        #{if $config.registered_state == 1}
+                        <div class="text-gray-400 fw-bold fs-5">没有账号? <a href="/user/authentication/register"
+                                                                         class="link-primary fw-bolder">免费创建!</a></div>
+                        #{/if}
                     </div>
                     <!--begin::Heading-->
                     <!--begin::Input group-->
                     <div class="fv-row mb-10">
                         <!--begin::Label-->
-                        <label class="form-label fs-6 fw-bolder text-color">手机号</label>
+                        <label class="form-label fs-6 fw-bolder text-color">账号</label>
                         <!--end::Label-->
                         <!--begin::Input-->
-                        <input class="form-control form-control-lg form-control-solid" type="number" name="username"
-                               placeholder="请输入你的手机"
+                        <input class="form-control form-control-lg form-control-solid" type="text" name="username"
+                               placeholder="用户名/手机号/邮箱"
                                autocomplete="off"/>
                         <!--end::Input-->
                     </div>
                     <!--end::Input group-->
-
-                    <div class="row fv-row mb-7 fv-plugins-icon-container">
-                        <!--begin::Col-->
-                        <div class="col-8">
-                            <label class="form-label fw-bolder fs-6 text-color">手机验证码</label>
-                            <input class="form-control form-control-lg form-control-solid" type="text" placeholder="验证码"
-                                   name="captcha"
-                                   autocomplete="off"/>
-                            <div class="fv-plugins-message-container invalid-feedback"></div>
-                        </div>
-                        <!--end::Col-->
-                        <!--begin::Col-->
-                        <div class="col-4 pt-8">
-                            <button type="button" class="btn btn-lg #{if $setting.style==0}btn-light-danger#{else} btn-light-primary #{/if} w-100 captcha">
-                                <span class="indicator-label">获取</span>
-                            </button>
-                        </div>
-                        <!--end::Col-->
-                    </div>
-
-
                     <!--begin::Input group-->
                     <div class="fv-row mb-10">
                         <!--begin::Wrapper-->
                         <div class="d-flex flex-stack mb-2">
                             <!--begin::Label-->
-                            <label class="form-label fw-bolder fs-6 mb-0 text-color">新密码</label>
+                            <label class="form-label fw-bolder fs-6 mb-0 text-color">密码</label>
                             <!--end::Label-->
+                            <!--begin::Link-->
+                            <a href="#{if $config.forget_type == 0}/user/authentication/emailForget#{else}/user/authentication/phoneForget#{/if}" class="link-primary fs-8 fw-bolder">忘记密码?</a>
+                            <!--end::Link-->
                         </div>
                         <!--end::Wrapper-->
                         <!--begin::Input-->
-                        <input class="form-control form-control-lg form-control-solid" type="text" name="password"
-                               placeholder="请输入新密码"
+                        <input class="form-control form-control-lg form-control-solid" type="password" name="password"
+                               placeholder="请输入密码"
                                autocomplete="off"/>
                         <!--end::Input-->
                     </div>
                     <!--end::Input group-->
 
+                    #{if $config.login_verification == 1}
+                    <div class="row fv-row mb-7 fv-plugins-icon-container">
+                        <!--begin::Col-->
+                        <div class="col-9">
+                            <label class="form-label fw-bolder fs-6 text-color">验证码</label>
+                            <input class="form-control form-control-lg form-control-solid" type="text"
+                                   name="captcha"
+                                   autocomplete="off" placeholder="验证码"/>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <!--end::Col-->
+                        <!--begin::Col-->
+                        <div class="col-3 pt-9">
+                            <img src="/user/captcha/image?action=login" onclick="this.src='/user/captcha/image?action=login'" alt="" style="height: 40px;border: 3px solid #f9bff773;border-radius: 10px;margin-left: -15px;opacity: 0.6;cursor: pointer;">
+                        </div>
+                        <!--end::Col-->
+                    </div>
+                    #{/if}
+
+
                     <!--begin::Actions-->
                     <div class="text-center">
                         <!--begin::Submit button-->
                         <button type="button" class="btn btn-lg #{if $setting.style==0}btn-light-danger#{else} btn-light-primary #{/if} w-100 mb-5 data-submit">
-                            <span class="indicator-label">设置</span>
+                            <span class="indicator-label">LOGIN</span>
                         </button>
                         <!--end::Submit button-->
+
+                        #{if getHookNum(\App\Consts\Hook::USER_VIEW_AUTH_LOGIN_BUTTON) > 0}
+                        <!--begin::Separator-->
+                        <div class="text-center text-muted text-uppercase fw-bolder mb-5">or</div>
+                        <!--end::Separator-->
+                        #{/if}
+                        <!--start::HOOK-->
+                        #{hook(\App\Consts\Hook::USER_VIEW_AUTH_LOGIN_BUTTON)}
+                        <!--end::HOOK-->
                     </div>
                     <!--end::Actions-->
                 </form>
@@ -129,59 +142,36 @@
 <!--begin::Javascript-->
 <!--begin::Global Javascript Bundle(used by all pages)-->
 <script src="/assets/admin/js/util.js"></script>
-<script src="/assets/static/jquery.min.js"></script>
-<script src="/assets/static/layui/layui.js"></script>
+<script src="/jquery.min.js"></script>
+<script src="/layui/layui.js"></script>
 
 <script>
+    var goto = decodeURIComponent(Util.getQueryVariable("goto"));
+
+    if (goto == 0) {
+        goto = "/";
+    }
+
     $(function () {
         layui.use(['layer'], function () {
             $('.data-submit').click(function () {
                 let loaderIndex = layer.load(0, {shade: ['0.3', '#fff']});
                 let data = $('.form-data').serialize();
-                $.post("/user/api/authentication/password", data, res => {
+
+                $.post("/user/api/authentication/login", data, res => {
                     layer.close(loaderIndex);
                     if (res.code == 200) {
-                        setTimeout(() => {
-                            window.location.href = "/user/authentication/login";
-                        }, 1000);
-                        layer.msg("设置成功");
-                        return;
+                        window.location.href = goto;
                     }
                     layer.msg(res.msg);
                 });
             });
         });
 
-
-        $('.captcha').click(function () {
-            layer.prompt({
-                title: '请输入验证码：<img src="/user/captcha/image?action=phoneForgetCaptcha" style="margin-top: -5px;">',
-                formType: 0
-            }, function (captcha, index) {
-                let loaderIndex = layer.load(0, {shade: ['0.3', '#fff']});
-                $.post("/user/api/authentication/phoneForgetCaptcha", {
-                    captcha: captcha,
-                    phone: $('form input[name=username]').val()
-                }, res => {
-                    layer.close(loaderIndex);
-                    if (res.code == 200) {
-                        layer.close(index);
-                        let second = 60;
-                        $('.captcha').attr('disabled', true);
-                        $(".captcha").html((second) + "秒")
-                        let interval = setInterval(function () {
-                            second--
-                            $(".captcha").html((second) + "秒")
-                            if (second === -1) {
-                                $(".captcha").text("获取")
-                                $('.captcha').attr('disabled', false);
-                                clearInterval(interval)
-                            }
-                        }, 1000);
-                    }
-                    layer.msg(res.msg);
-                });
-            });
+        $("body").keypress(function (even) {
+            if (even.which == 13) {
+                $('.data-submit').click();
+            }
         });
     });
 
