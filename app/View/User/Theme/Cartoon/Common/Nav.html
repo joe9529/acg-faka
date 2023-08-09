@@ -5,12 +5,12 @@
             我的主页
         </a>
     </li>
-    <li class="layui-nav-item #{if $title=='我的店铺'} layui-this #{/if}">
-        <a href="/user/business/index">
-            <i class="layui-icon">&#xe653;</i>
-            我的店铺#{if $user.businessLevel}<span class="layui-badge layui-bg-pro">#{$user.businessLevel.name}</span>#{/if}
-        </a>
-    </li>
+<!--    <li class="layui-nav-item #{if $title=='我的店铺'} layui-this #{/if}">-->
+<!--        <a href="/user/business/index">-->
+<!--            <i class="layui-icon">&#xe653;</i>-->
+<!--            我的店铺#{if $user.businessLevel}<span class="layui-badge layui-bg-pro">#{$user.businessLevel.name}</span>#{/if}-->
+<!--        </a>-->
+<!--    </li>-->
     #{if $user.businessLevel and $user.businessLevel.supplier == 1}
     <li class="layui-nav-item #{if $title=='商品分类'} layui-this #{/if}">
         <a href="/user/category/index">
@@ -55,26 +55,26 @@
             购买记录
         </a>
     </li>
-    <li class="layui-nav-item #{if $title=='硬币兑现' or $title=='兑现记录'} layui-this #{/if}">
-        <a href="/user/cash/index">
-            <i class="layui-icon">&#xe735;</i>
-            硬币兑现
-        </a>
-    </li>
+<!--    <li class="layui-nav-item #{if $title=='硬币兑现' or $title=='兑现记录'} layui-this #{/if}">-->
+<!--        <a href="/user/cash/index">-->
+<!--            <i class="layui-icon">&#xe735;</i>-->
+<!--            硬币兑现-->
+<!--        </a>-->
+<!--    </li>-->
     <li class="layui-nav-item #{if $title=='我的下级'} layui-this #{/if}">
         <a href="/user/agent/member">
             <i class="layui-icon">&#xe612;</i>
             我的下级
         </a>
     </li>
-    <li class="layui-nav-item #{if $title=='我的账单'} layui-this #{/if}">
-        <a href="/user/bill/index">
-            <i class="layui-icon">&#xe63c;</i>
-            我的账单
-        </a>
-    </li>
+<!--    <li class="layui-nav-item #{if $title=='我的账单'} layui-this #{/if}">-->
+<!--        <a href="/user/bill/index">-->
+<!--            <i class="layui-icon">&#xe63c;</i>-->
+<!--            我的账单-->
+<!--        </a>-->
+<!--    </li>-->
     <li class="layui-nav-item #{if in_array($title,['个人资料','邮箱设置','手机设置','密码设置'])} layui-this #{/if}">
-        <a href="/user/security/personal">
+        <a href="/user/security/password">
             <i class="layui-icon">&#xe672;</i>
             安全中心
         </a>
