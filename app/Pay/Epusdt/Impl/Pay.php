@@ -48,6 +48,7 @@ class Pay extends Base implements \App\Pay\Pay
         }
 
         $contents = $request->getBody()->getContents();
+//        dd(trim($this->config['url'], "/") . '/api/v1/order/create-transaction');
         $json = (array)json_decode((string)$contents, true);
         if ($json['status_code'] != 200) {
             throw new JSONException((string)$json['message']);
