@@ -17,7 +17,7 @@ class Config extends Manage
         ["name" => '🤡 基本设置', "url" => "/admin/config/index"],
         ["name" => "👹 短信设置", "url" => "/admin/config/sms"],
         ["name" => "👺 邮箱设置", "url" => "/admin/config/email"],
-        ["name" => "🛡️ 其他设置", "url" => "/admin/config/other"],
+//        ["name" => "🛡️ 其他设置", "url" => "/admin/config/other"],
     ];
 
     /**

@@ -16,15 +16,32 @@ class Signature implements \App\Pay\Signature
      * @param string $key
      * @return string
      */
-    public static function generateSignature(array $data, string $key): string
+//    public static function generateSignature(array $data, string $key): string
+//    {
+//        ksort($data);
+//        $sign = '';
+//        foreach ($data as $k => $v) {
+//            $sign .= $k . '=' . $v . '&';
+//        }
+//        $sign = trim($sign, '&');
+//        return md5($sign . $key);
+//    }
+    public static function generateSignature(array $parameter, string $signKey)
     {
-        ksort($data);
+        ksort($parameter);
+        reset($parameter);
         $sign = '';
-        foreach ($data as $k => $v) {
-            $sign .= $k . '=' . $v . '&';
+        foreach ($parameter as $key => $val) {
+            if ($val == '') continue;
+            if ($key != 'signature') {
+                if ($sign != '') {
+                    $sign .= "&";
+                }
+                $sign .= "$key=$val";
+            }
         }
-        $sign = trim($sign, '&');
-        return md5($sign . $key);
+        $sign = md5($sign.$signKey);
+        return $sign;
     }
 
     /**
